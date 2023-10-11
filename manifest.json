@@ -1,0 +1,11 @@
+{
+	"name": "Back-Flash chrome extension",
+	"version": "1.0",
+	"action": {
+		"default_popup": "popup.html"
+	},
+	"author": "sriharsha.9554@gmail.com",
+	"icons": {},
+	"manifest_version": 3,
+	"permissions": ["activeTab", "tabGroups", "tabs"]
+}
