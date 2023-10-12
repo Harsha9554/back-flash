@@ -1,0 +1,11 @@
+{
+  "name": "back-flash",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Harsha9554/back-flash.git",
+  "author": "Sai SriHarsha Griddaluru <sriharsha.9554@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.3.3"
+  }
+}
